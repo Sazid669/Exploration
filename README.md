@@ -29,16 +29,6 @@ turtle_controller/
 
 ---
 
-## Features
-
-* **Pose-based control** using custom PID controller (`pid_pose_controller.py`)
-* **Initial pose to target navigation**
-* **Frontier-based autonomous exploration**
-* **RViz visualization support**
-* **DWA planner** for navigation
-
----
-
 ## Launch Instructions
 
 ### 1. **Pose Controller**
