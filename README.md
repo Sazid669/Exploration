@@ -66,16 +66,6 @@ export TURTLEBOT3_MODEL=burger
 
 ---
 
-## Visualization
-
-Open RViz with the configuration:
-
-```bash
-rviz -d $(rospack find turtle_controller)/rviz/pose_controller.rviz
-```
-
----
-
 ## Maintainer
 
 **Mir Mohibullah Sazid**
