@@ -23,7 +23,6 @@ turtle_controller/
 │   ├── local_costmap_params_burger.yaml
 │   ├── costmap_common_params_burger.yaml
 │   ├── dwa_local_planner_params_burger.yaml
-│   └── teb_local_planner_params.yaml
 ├── rviz/                           # RViz configuration
 │   └── pose_controller.rviz
 ```
@@ -36,7 +35,7 @@ turtle_controller/
 * **Initial pose to target navigation**
 * **Frontier-based autonomous exploration**
 * **RViz visualization support**
-* **TEB and DWA planner support** for navigation
+* **DWA planner** for navigation
 
 ---
 
