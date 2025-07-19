@@ -1,0 +1,6 @@
+footprint: [[-0.05, -0.05], [-0.05, 0.05], [0.05, 0.0], [0.05, -0.05]]
+robot_radius: 0.1
+inflation_radius: 0.5
+transform_tolerance: 0.5
+obstacle_range: 3.0
+raytrace_range: 3.5
