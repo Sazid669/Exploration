@@ -74,11 +74,18 @@ Email: \[[gmail](mailto:sazidarnob@gmail.com)]
 
 Feel free to contribute, raise issues, or fork the repo!
 
----
+## Demo Videos
 
-## 📜 License
+Here are the demonstration videos of the project:
 
-MIT License. See `LICENSE` file for details.
+[![Video 1](https://img.youtube.com/vi/xcLszPdzBxE/0.jpg)](https://youtu.be/xcLszPdzBxE)  
+**Video 1:** [https://youtu.be/xcLszPdzBxE](https://youtu.be/xcLszPdzBxE)
+
+[![Video 2](https://img.youtube.com/vi/-wi0sF9BfeA/0.jpg)](https://youtu.be/-wi0sF9BfeA)  
+**Video 2:** [https://youtu.be/-wi0sF9BfeA](https://youtu.be/-wi0sF9BfeA)
+
+[![Video 3](https://img.youtube.com/vi/2NGsgKrl_5I/0.jpg)](https://youtu.be/2NGsgKrl_5I)  
+**Video 3:** [https://youtu.be/2NGsgKrl_5I](https://youtu.be/2NGsgKrl_5I)
 
 ---
 
